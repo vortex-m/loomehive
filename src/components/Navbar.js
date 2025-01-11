@@ -28,7 +28,7 @@ const NavBar = () => {
         <img
           src={Logo}
           className="lg:w-[12vw] w-[27vw]"
-          alt="Logo"
+          alt="loomehive"
           onClick={() => navigate("/")}
         />
 

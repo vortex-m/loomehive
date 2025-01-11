@@ -30,13 +30,13 @@ const Products = () => {
     setSize(size);
   };
 
-  const increaseQuantity = () => {
-    setQuantity((prev) => prev + 1);
-  };
+  // const increaseQuantity = () => {
+  //   setQuantity((prev) => prev + 1);
+  // };
 
-  const decreaseQuantity = () => {
-    setQuantity((prev) => (prev > 1 ? prev - 1 : 1));
-  };
+  // const decreaseQuantity = () => {
+  //   setQuantity((prev) => (prev > 1 ? prev - 1 : 1));
+  // };
 
   if (!productData) {
     return <p>Loading...</p>;

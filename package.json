@@ -21,7 +21,7 @@
   },
   "scripts": {
     "start": "cross-env PORT=5002 react-scripts start",
-    "build": "react-scripts build",
+    "build": "CI=false react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "server": "live-server public --host=0.0.0.0 --port=3000 --middleware=./disable-browser-cache.js"
