@@ -6,12 +6,12 @@ function PrivacyPolicy() {
       <h1 className="text-5xl  mb-4">Privacy Policy</h1>
 
       <section>
-        <h2 className="text-2xl font-semibold mt-4">At Bandhani Jaipur</h2>
+        <h2 className="text-2xl font-semibold mt-4">At Loomehive</h2>
         <p>
           We value and share your concerns about your privacy and security. This
           section details out how your personal information is collected, used,
-          and shared when you visit or make a purchase from Bandhani Jaipur /
-          www.bandhanijaipur.com (the “Site”).
+          and shared when you visit or make a purchase from Loomehive /
+          www.loomehive.com (the “Site”).
         </p>
       </section>
    

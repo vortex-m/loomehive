@@ -36,7 +36,7 @@ function ShippingPolicy() {
         <p>
           If you need to change the delivery address or contact details of the
           recipient, please share the relevant details via WhatsApp at{" "}
-          <a href="tel:+918890319137" className="text-blue-600">
+          <a href="tel:+918521977355" className="text-blue-600">
             8890319137
           </a>
           . We will coordinate with our logistics partners to update the
@@ -48,7 +48,7 @@ function ShippingPolicy() {
         </h3>
         <p>
           If you need expedited or urgent delivery, please reach out to{" "}
-          <a href="tel:+918890319137" className="text-blue-600">
+          <a href="tel:+918521977355" className="text-blue-600">
             8890319137
           </a>
           . We will do our best to ensure the delivery is made within your
